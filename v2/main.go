@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println("module v1")
+	fmt.Println("module v2")
 }
